@@ -18,4 +18,4 @@ Vayu-x86_64.iso: boot/vayu.bin
 	grub-mkrescue -o Vayu-x86_64.iso iso
 
 clean:
-	rm -f src/*.o iso/boot/vayu.bin Vayu-x86_64.iso
+	rm -f src/*.o boot/vayu.bin Vayu-x86_64.iso
