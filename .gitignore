@@ -1,0 +1,17 @@
+# Vayu OS Build Artifacts
+build/
+*.iso
+*.squashfs
+
+# Git
+.git/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Node/Venv (if any)
+node_modules/
+venv/
+__pycache__/
+.aider*
