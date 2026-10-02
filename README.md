@@ -11,7 +11,7 @@ Vayu is a high-performance, minimal footprint operating system designed for x86_
 
 <img width="1720" height="882" alt="image" src="https://github.com/user-attachments/assets/22527d4b-c6c8-4cd1-820a-aa2a07c77b16" />
 
-<img width="1716" height="882" alt="image" src="https://github.com/user-attachments/assets/a478ecbd-65cd-4e6a-af5d-f03d658b3fab" />
+<img width="1713" height="878" alt="image" src="https://github.com/user-attachments/assets/d0c999da-6d9a-42fe-8fe4-88b90db241a0" />
 
 <img width="1716" height="873" alt="image" src="https://github.com/user-attachments/assets/798615ca-603d-4a81-b6f9-5c38014d1226" />
 
