@@ -14,7 +14,7 @@ src/kernel.o: src/kernel.c
 iso/boot/vayu.bin: src/boot.o src/kernel.o linker.ld
 	$(CC) -m32 -T linker.ld -o iso/boot/vayu.bin -nostdlib src/boot.o src/kernel.o -lgcc
 
-Vayu-x86_64.iso: iso/boot/vayu.bin
+Vayu-x86_64.iso: boot/vayu.bin
 	grub-mkrescue -o Vayu-x86_64.iso iso
 
 clean:
