@@ -9,6 +9,7 @@ Vayu is a high-performance, minimal footprint operating system designed for x86_
 
 <img width="842" height="523" alt="image" src="https://github.com/user-attachments/assets/42b63d5e-455f-4895-954d-f2cfc3720681" />
 
+The image shows the LXQt lightweight desktop environment running on a Linux distribution with a blue abstract wallpaper featuring a hummingbird logo.
 <img width="1720" height="882" alt="image" src="https://github.com/user-attachments/assets/22527d4b-c6c8-4cd1-820a-aa2a07c77b16" />
 
 <img width="1713" height="878" alt="image" src="https://github.com/user-attachments/assets/d0c999da-6d9a-42fe-8fe4-88b90db241a0" />
