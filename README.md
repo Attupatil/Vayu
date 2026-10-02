@@ -1,11 +1,20 @@
 # Vayu OS
-![Build Status](https://github.com/Attupatil/Vayu/actions/workflows/build.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-x86__64-orange.svg)
 
 > **Vayu — Lightweight, modular, and invisible. Perfect for an embedded or minimal footprint scratch OS.**
 
 Vayu is a high-performance, minimal footprint operating system designed for x86_64 architecture, optimized for VMware Workstation on ASUS hardware. It aims to be "invisible" while providing a robust base for embedded applications and minimal desktop environments.
+<img width="760" height="442" alt="image" src="https://github.com/user-attachments/assets/7e11217c-89a3-43e5-bf9f-eeb6bff0225a" />
+
+<img width="842" height="523" alt="image" src="https://github.com/user-attachments/assets/42b63d5e-455f-4895-954d-f2cfc3720681" />
+
+<img width="1720" height="882" alt="image" src="https://github.com/user-attachments/assets/22527d4b-c6c8-4cd1-820a-aa2a07c77b16" />
+
+<img width="1716" height="882" alt="image" src="https://github.com/user-attachments/assets/a478ecbd-65cd-4e6a-af5d-f03d658b3fab" />
+
+<img width="1716" height="873" alt="image" src="https://github.com/user-attachments/assets/798615ca-603d-4a81-b6f9-5c38014d1226" />
+
 
 ## Features Matrix
 - **Hypervisor Optimized:** Full integration with VMware Guest Tools for seamless interaction.
